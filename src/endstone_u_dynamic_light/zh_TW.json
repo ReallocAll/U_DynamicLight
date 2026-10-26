@@ -1,0 +1,11 @@
+{
+    "form.textinput.label": "當前光刷新間隔",
+    "form.textinput.placeholder": "請輸入一個正整數...",
+    "form.submit_button": "重載",
+    "reload.message.fail": "表單解析錯誤, 請按提示正確填寫...",
+    "reload.message.success": "重載配置文件成功...",
+    "switch.message.fail_1": "你的主手上沒有物品...",
+    "switch.message.fail_2": "此物品不能被切換至副手...",
+    "switch.message.fail_3": "以下物品可被切換至副手",
+    "switch.message.success": "將物品切換至副手成功..."
+}
